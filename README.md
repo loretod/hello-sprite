@@ -1,6 +1,6 @@
 # Hello Sprite
 
-## Welcome! @showhint
+## Welcome!
 This 2 Minute Arcade tutorial will walk you through some of the most often used blocks when adding a sprite to your game.
 
 ## Predict
@@ -10,7 +10,7 @@ Take a look at the code and make a prediction on what you think this code does?
 See if you were correct? Switch to the simulator tab and Press the **A** button. Was you're prediction correct?
 
 ## Investigate
-Now... let's see what happens if you put the ``||sprites.create||`` at the bottom of the blocks?
+Now... let's see what happens if you put the ``||sprites.create Sprite||`` at the bottom of the blocks?
 
 **Add hint image here**
 
@@ -30,7 +30,7 @@ Time to change some things around. Play around with the some of the settings and
 -[] Change what the sprite says and how long it he says it for.
 
 ## Make
-Now it's your turn! From the ``||controller||`` menu, drag the ``||controller.onA||`` block and change the parameter to **B**.
+Now it's your turn! From the ``||controller||`` menu, drag the ``||controller.on A Press||`` block and change the parameter to **B**.
 
 Load a second sprite on the screen using your desired settings.
 
