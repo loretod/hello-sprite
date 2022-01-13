@@ -1,33 +1,33 @@
- 
+# Hello Sprite
+This 2 Minute Arcade tutorial will walk you through some of the most often used blocks when adding a sprite to your game.
 
+##Predict :crystal ball:
+Take a look at the code and make a prediction on what you think this code does?
 
-> Open this page at [https://loretod.github.io/hello-sprite/](https://loretod.github.io/hello-sprite/)
+##Run :person running:
+See if you were correct? Press the **A**. Was you're prediction correct?
 
-## Use as Extension
+##Investigate :magnifying glass tilted right:
+Now... let's see what happens if you put the ''||sprites.create||'' at the bottom of the blocks?
 
-This repository can be added as an **extension** in MakeCode.
+##Modify :red triangle pointed up:
+Time to change some things around. Play around with the some of the settings and see what happens.
+-[] Click on the ''cat'' image and draw your own or select a different one from the library.
+-[] Change the x and y numbers in the velocity block.
+-[] Change the x and y numbers in the sprite position block.
+-[] Turn off the bounce off the wall option.
+-[] Turn off the stay on screen option.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/loretod/hello-sprite** and import
+##Make :brain:
+Now it's your turn! From the ''Controller'' menu, drag the "||controller.onA||" block and change it to **B**.
 
-## Edit this project ![Build status badge](https://github.com/loretod/hello-sprite/workflows/MakeCode/badge.svg)
+Load a second sprite on the screen using your desired settings.
 
-To edit this repository in MakeCode.
+Press **B** to run your code.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/loretod/hello-sprite** and click import
+##Recap :recycling symbol:
+In this 2 Minute Arcade, we learned about how to load a sprite onto the game and adjust some of it's properties.
 
-## Blocks preview
+We also learned that it's pretty important to create the sprite variable ***first*** before beginning to change properties.
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/loretod/hello-sprite/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Nice!
